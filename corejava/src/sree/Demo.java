@@ -1,4 +1,4 @@
-package com.tnsif.program;
+package sree;
 
 public class Demo {
 	public int a=9;
